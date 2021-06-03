@@ -1,10 +1,7 @@
-- 👋 Hi, I’m Laura
-- 👀 I’m interested in front-end technologies
-- 🌱 I’m currently learning Angular and NodeJs
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-laurabschell/laurabschell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hello, I’m Laura
+- 📚 A computer science student
+- 👀 Interested in front-end technologies
+- 🌱 Currently learning Angular 
+- 📐 Creating clean and responsive Web Apps everyday 
+- 💞️ Feel free to reach me via LinkedIn 👉 https://www.linkedin.com/in/laura-schell/
+- 📫 Or send me an email to laurabelenschell@gmail.com
