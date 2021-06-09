@@ -2,6 +2,7 @@
 - 📚 A computer science student
 - 👀 Interested in front-end technologies
 - 🌱 Currently learning Angular 
-- 📐 Creating clean and responsive Web Apps everyday 
-- 💞️ Feel free to reach me via LinkedIn 👉 https://www.linkedin.com/in/laura-schell/
+- 🔨 Creating clean and responsive Web Apps everyday 
+- 🎨 I'm also smitten with CSS and User Interface design
+- 💬 Feel free to reach me via LinkedIn 👉 https://www.linkedin.com/in/laura-schell/
 - 📫 Or send me an email to laurabelenschell@gmail.com
