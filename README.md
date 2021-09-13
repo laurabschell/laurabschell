@@ -1,6 +1,6 @@
 - 👋 Hi
 - 📚 I'm a computer science student
-- 👀 Interested in frontend technologies
-- 🌱 Currently learning Angular and React
-- 🎨 I'm also smitten with User Interface design
+- 👀 interested in frontend technologies
+- 🌱 Learning React everyday
+- 🎨 and also smitten with User Interface design
 - 💬 Feel free to reach me via LinkedIn 👉 https://www.linkedin.com/in/laurabschell/
